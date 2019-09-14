@@ -22,6 +22,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.univer.javacore.IfElse.ClassTask" />
       <recent name="ua.univer.javacore.begin" />
       <recent name="ua.univer.javacore.BooleanPack" />
       <recent name="ua.univer.javacore" />
@@ -39,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntegerTask">
+  <component name="RunManager" selected="Application.IfElsePack">
     <configuration name="BoolTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.BooleanPack.BoolTask" />
       <module name="Project" />
@@ -107,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElsePack" />
         <item itemvalue="Application.IntegerTask" />
         <item itemvalue="Application.ForWhilePack" />
-        <item itemvalue="Application.IfElsePack" />
         <item itemvalue="Application.BoolTask" />
         <item itemvalue="Application.CoreProgram" />
       </list>
