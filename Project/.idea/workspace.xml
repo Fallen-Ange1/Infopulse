@@ -40,20 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="BoolTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.BooleanPack.BoolTask" />
-      <module name="Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.BooleanPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WhilePack">
     <configuration name="CasePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Case.CasePack" />
       <module name="Project" />
@@ -106,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhilePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.While.WhilePack" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.univer.javacore.While.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhilePack" />
         <item itemvalue="Application.ForPack" />
         <item itemvalue="Application.CasePack" />
         <item itemvalue="Application.IfElsePack" />
         <item itemvalue="Application.IntegerTask" />
-        <item itemvalue="Application.BoolTask" />
       </list>
     </recent_temporary>
   </component>
