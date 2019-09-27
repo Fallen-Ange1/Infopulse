@@ -22,6 +22,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.univer.javacore.Array" />
       <recent name="ua.univer.javacore.IfElse.ClassTask" />
       <recent name="ua.univer.javacore.begin" />
       <recent name="ua.univer.javacore.BooleanPack" />
@@ -40,7 +41,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WhilePack">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Array.Array" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.univer.javacore.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CasePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Case.CasePack" />
       <module name="Project" />
@@ -80,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.IntegerPack.IntegerTask" />
-      <module name="Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.IntegerPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhilePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.While.WhilePack" />
       <module name="Project" />
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.WhilePack" />
         <item itemvalue="Application.ForPack" />
         <item itemvalue="Application.CasePack" />
         <item itemvalue="Application.IfElsePack" />
-        <item itemvalue="Application.IntegerTask" />
       </list>
     </recent_temporary>
   </component>
