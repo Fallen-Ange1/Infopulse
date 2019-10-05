@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,11 +25,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.univer.javacore.Objects.ClassWork" />
+      <recent name="ua.univer.javacore.Objects" />
+      <recent name="ua.univer.javacore.Sort" />
       <recent name="ua.univer.javacore.Array" />
       <recent name="ua.univer.javacore.IfElse.ClassTask" />
-      <recent name="ua.univer.javacore.begin" />
-      <recent name="ua.univer.javacore.BooleanPack" />
-      <recent name="ua.univer.javacore" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.univer.javacore.Array" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -41,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.MinMax">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Array.Array" />
       <module name="Project" />
@@ -55,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CasePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Case.CasePack" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.MinMax.MinMax" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Case.*" />
+          <option name="PATTERN" value="ua.univer.javacore.MinMax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.For.ForPack" />
+    <configuration name="Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.Objects" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.For.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElsePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.IfElse.IfElsePack" />
+    <configuration name="Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Series.Series" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.IfElse.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Series.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhilePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.While.WhilePack" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Sort.Sort" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.While.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.WhilePack" />
-        <item itemvalue="Application.ForPack" />
-        <item itemvalue="Application.CasePack" />
-        <item itemvalue="Application.IfElsePack" />
+        <item itemvalue="Application.Objects" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Series" />
       </list>
     </recent_temporary>
   </component>
