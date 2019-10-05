@@ -15,15 +15,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1QW0S4BnOMGInYFbRiGcl9dP0ok" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.univer.javacore.Matrix" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ua.univer.javacore.Objects.ClassWork" />
       <recent name="ua.univer.javacore.Objects" />
@@ -33,6 +45,9 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ua.univer.javacore.Array" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -47,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinMax">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Array.Array" />
+  <component name="RunManager" selected="Application.Cprogram">
+    <configuration name="Cprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.Customer.Cprogram" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Array.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.Customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.MinMax.MinMax" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Matrix.Matrix" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.MinMax.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.Objects" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.student.Program" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Series.Series" />
+    <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.shop.program" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Series.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.shop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,26 +115,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Sort.Sort" />
+    <configuration name="MatrixTest.testgetMaxLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Sort.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.univer.javacore.Matrix" />
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Matrix.MatrixTest" />
+      <option name="METHOD_NAME" value="testgetMaxLength" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Objects" />
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.Series" />
+        <item itemvalue="Application.Cprogram" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.program" />
+        <item itemvalue="JUnit.MatrixTest.testgetMaxLength" />
+        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>
