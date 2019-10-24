@@ -3,6 +3,7 @@ package ua.univer.javacore.Objects.ClassWork.shop;
 
 
 public class Product {
+    private static int id=100;
     private String name;
     private double weight;
     private double price;
@@ -13,6 +14,7 @@ public class Product {
         this.weight = weight;
         setPrice(price);
         this.amount = amount;
+        ++id;
     }
 
     public void setName(String name){

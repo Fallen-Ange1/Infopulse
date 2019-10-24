@@ -62,7 +62,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cprogram">
+  <component name="RunManager" selected="Application.CWP">
+    <configuration name="CWP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.inheritance.CW.CWP" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.inheritance.CW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.Customer.Cprogram" />
       <module name="Project" />
@@ -76,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Matrix.Matrix" />
+    <configuration name="PProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.Patient.PProgram" />
       <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Matrix.*" />
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.Patient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PRInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.inheritance.PRInheritance" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,42 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Objects.ClassWork.shop.program" />
-      <module name="Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Objects.ClassWork.shop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixTest.testgetMaxLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.univer.javacore.Matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ua.univer.javacore.Matrix" />
-      <option name="MAIN_CLASS_NAME" value="ua.univer.javacore.Matrix.MatrixTest" />
-      <option name="METHOD_NAME" value="testgetMaxLength" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CWP" />
+        <item itemvalue="Application.PRInheritance" />
+        <item itemvalue="Application.PProgram" />
         <item itemvalue="Application.Cprogram" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.program" />
-        <item itemvalue="JUnit.MatrixTest.testgetMaxLength" />
-        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>

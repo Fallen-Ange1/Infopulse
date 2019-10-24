@@ -1,5 +1,7 @@
 package ua.univer.javacore.Array;
 
+import ua.univer.javacore.Objects.ClassWork.inheritance.CW.Vechine;
+
 public class Gen1 {
     public static void gen(int[] mas) {
         for (int i = 0; i < mas.length; i++) {
@@ -10,6 +12,12 @@ public class Gen1 {
     public static void sout(int[] mas) {
         for (int i = 0; i < mas.length; i++) {
             System.out.println("mas[" + i + "]" + mas[i]);
+        }
+    }
+    public static void soutV(Vechine[] vechines) {
+        for (int i = 0; i < vechines.length; i++) {
+            if(vechines[i]==null)break;
+            System.out.println("Vechine[" + i + "] : " +vechines[i]);
         }
     }
 

@@ -1,18 +1,18 @@
 package ua.univer.javacore.Objects.ClassWork.Customer;
 
 public class Customer {
-    int id;
-    String fio;
-    String adres;
-    int creditcn;
-    int bankcount;
+    private int id;
+    private String fio;
+    private String adres;
+    private int creditcn;
+    private int bankcount;
 
     Customer(int id, String fio, String adres, int creditcn, int bankcount) {
-        this.id=id;
-        this.fio=fio;
-        this.adres=adres;
-        this.creditcn=creditcn;
-        this.bankcount=bankcount;
+        this.id = id;
+        this.fio = fio;
+        this.adres = adres;
+        this.creditcn = creditcn;
+        this.bankcount = bankcount;
     }
 
     public void setId(int id) {
@@ -54,7 +54,8 @@ public class Customer {
     public int getBankcount() {
         return bankcount;
     }
-    public void print(){
-        System.out.println("ID : "+this.id+"  FIO : "+this.fio+" Adres : "+this.adres+" Credit CN : "+this.creditcn+" Bankcount : "+this.bankcount);
+
+    public void print() {
+        System.out.println("ID : " + this.id + "  FIO : " + this.fio + " Adres : " + this.adres + " Credit CN : " + this.creditcn + " Bankcount : " + this.bankcount);
     }
 }

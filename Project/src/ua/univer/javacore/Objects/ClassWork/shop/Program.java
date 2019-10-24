@@ -6,6 +6,5 @@ public class Program {
         order.add(new Product("Golden", 0.2, 20, 1));
         order.add(new Product("Red", 0.15, 10, 1));
         order.add(new Product("Tomato", 0.1, 30, 1));
-        //Product p=Orders.maxPriceWithWeightGreater(product,0.2);
     }
 }
